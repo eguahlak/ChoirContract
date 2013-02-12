@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sem3_2012b_common/!svn/ver/5/ChoirContract/src/dk/cphbusiness/choir/contract/eto
+END
+NoSuchArtistException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sem3_2012b_common/!svn/ver/11/ChoirContract/src/dk/cphbusiness/choir/contract/eto/NoSuchArtistException.java
+END
+NoSuchMaterialException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sem3_2012b_common/!svn/ver/11/ChoirContract/src/dk/cphbusiness/choir/contract/eto/NoSuchMaterialException.java
+END
+NoSuchMemberException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sem3_2012b_common/!svn/ver/11/ChoirContract/src/dk/cphbusiness/choir/contract/eto/NoSuchMemberException.java
+END
+AuthenticationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sem3_2012b_common/!svn/ver/11/ChoirContract/src/dk/cphbusiness/choir/contract/eto/AuthenticationException.java
+END
+NoSuchMusicException.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sem3_2012b_common/!svn/ver/11/ChoirContract/src/dk/cphbusiness/choir/contract/eto/NoSuchMusicException.java
+END

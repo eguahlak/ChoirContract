@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/sem3_2012b_common/!svn/ver/10/ChoirContract/src/dk/cphbusiness/choir/contract/dto
+END
+RoleSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sem3_2012b_common/!svn/ver/11/ChoirContract/src/dk/cphbusiness/choir/contract/dto/RoleSummary.java
+END
+ArtistSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sem3_2012b_common/!svn/ver/11/ChoirContract/src/dk/cphbusiness/choir/contract/dto/ArtistSummary.java
+END
+MaterialSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sem3_2012b_common/!svn/ver/11/ChoirContract/src/dk/cphbusiness/choir/contract/dto/MaterialSummary.java
+END
+MemberSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sem3_2012b_common/!svn/ver/11/ChoirContract/src/dk/cphbusiness/choir/contract/dto/MemberSummary.java
+END
+MemberDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sem3_2012b_common/!svn/ver/11/ChoirContract/src/dk/cphbusiness/choir/contract/dto/MemberDetail.java
+END
+MaterialDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sem3_2012b_common/!svn/ver/11/ChoirContract/src/dk/cphbusiness/choir/contract/dto/MaterialDetail.java
+END
+ArtistDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sem3_2012b_common/!svn/ver/8/ChoirContract/src/dk/cphbusiness/choir/contract/dto/ArtistDetail.java
+END
+MusicDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sem3_2012b_common/!svn/ver/11/ChoirContract/src/dk/cphbusiness/choir/contract/dto/MusicDetail.java
+END
+VoiceSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sem3_2012b_common/!svn/ver/11/ChoirContract/src/dk/cphbusiness/choir/contract/dto/VoiceSummary.java
+END
+MemberAuthentication.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sem3_2012b_common/!svn/ver/11/ChoirContract/src/dk/cphbusiness/choir/contract/dto/MemberAuthentication.java
+END
+MusicSummary.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sem3_2012b_common/!svn/ver/11/ChoirContract/src/dk/cphbusiness/choir/contract/dto/MusicSummary.java
+END
