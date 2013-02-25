@@ -35,8 +35,6 @@ public interface ChoirManager {
   Collection<MemberSummary> listMembersByRole(String roleCode);
   Collection<MemberSummary> listMembersByVoices(int voiceCodes);
   
-  MemberDetail findMember(long id) throws NoSuchMemberException;
-  MemberDetail saveMember(MemberDetail member) 
   MemberDetail findMember(long id)
       throws NoSuchMemberException;
   MemberDetail saveMember(MemberAuthentication user, MemberDetail member) 
@@ -54,16 +52,13 @@ public interface ChoirManager {
   Collection<MusicSummary> listMusicByComposer(long composerId);
   
   MusicDetail findMusic(long id) throws NoSuchMusicException;
-  MusicDetail saveMusic(MusicDetail music) 
   MusicDetail saveMusic(MemberAuthentication user, MusicDetail music) 
       throws NoSuchMusicException, AuthenticationException;
   
   Collection<ArtistSummary> listArtists();
   Collection<ArtistSummary> listArtistsByPattern(String pattern);
   ArtistDetail findArtist(long id) throws NoSuchArtistException;
-  ArtistDetail saveArtist(ArtistDetail artist) 
   ArtistDetail saveArtist(MemberAuthentication user, ArtistDetail artist) 
       throws NoSuchArtistException, AuthenticationException;
-  
   
   }
