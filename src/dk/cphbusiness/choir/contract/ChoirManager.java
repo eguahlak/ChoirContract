@@ -47,7 +47,6 @@ public interface ChoirManager {
   Collection<MaterialSummary> listMaterialsByMusic(long musicId) throws NoSuchMusicException;
   
   MaterialDetail findMaterial(long id) throws NoSuchMaterialException;
-  MaterialDetail saveMaterial(MaterialDetail material)
   MaterialDetail saveMaterial(MemberAuthentication user, MaterialDetail material)
       throws NoSuchMaterialException, AuthenticationException;
   
